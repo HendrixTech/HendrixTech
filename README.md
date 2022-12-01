@@ -27,7 +27,7 @@ C, Javascript, HTML, CSS and Phython
 
 💬 Ask me about C programing, python and basic frontend languages
 
-📫 How to reach me on hendrixobuks@gmail.com
+📫 Reach me on hendrixobuks@gmail.com
 
 
 ## Support
