@@ -3,13 +3,13 @@
 
 
 ## 🚀 About Me
-I am a well devoted, goal-oriented fullstack Software Engineer.
+I am a well devoted, goal-oriented backend Software Engineer.
 A value-driven human given to constant learning and self growth. Consistent pursue for excellence birth relevance and in turn "VALUE"
 
 
 
 ## 🛠 Skills
-C, Javascript, HTML, CSS and Phython
+Python, C, PHP, HTML and CSS
 
 
 ## 🔗 Links
